@@ -1,0 +1,11 @@
+{
+    "name": "tiaras-cafe/website",
+    "description": "Tiara's Cafe Website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
